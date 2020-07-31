@@ -1,0 +1,20 @@
+{
+  "name": "webtest",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "start index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andevadm/WebTest.git"
+  },
+  "author": "Admin",
+  "license": "ISC",
+  "homepage": "https://github.com/andevadm/WebTest#readme",
+  "devDependencies": {
+    
+  },
+  "dependencies": {
+
+  }
+}
